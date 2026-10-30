@@ -6,7 +6,7 @@ It reads the output of `kiro-cli chat --no-interactive "/usage"`, so it works wi
 
 ## Requirements
 
-- Node.js 22 or later
+- Node.js 22.13 or later
 - [Kiro CLI](https://kiro.dev/cli/), installed and logged in (`kiro-cli login`)
 - pnpm, to build from source
 
