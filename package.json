@@ -27,7 +27,7 @@
     "!dist/**/*.test.*"
   ],
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   },
   "packageManager": "pnpm@11.11.0",
   "scripts": {
